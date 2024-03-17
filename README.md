@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Computer Science student at PJATK. I have skills for developing production-ready applications.
+### I'm a Computer Science student at PJATK interested in software development and creating meaningful technology.
 ### 📫You can reach me via email: henryk.ciechanowiec@gmail.com
 
 <!--
