@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I am a Computer Science student at PJATK. I have skills for developing production-ready applications.
+### You can reach me via email: henryk.ciechanowiec@gmail.com
 
 <!--
 **henry-ciech/henry-ciech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
