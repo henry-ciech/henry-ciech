@@ -4,5 +4,5 @@ My name is Henryk. I am a Computer Science student at Polish-Japanese Academy of
 
 I would be delighted to work together with your team to create something great 🚀
 
-📫You can reach me via email: henryk.ciechanowiec@gmail.com <br>
-💼My LinkedIn profile: [Henryk Ciechanowiec](https://www.linkedin.com/in/henryk-ciechanowiec/)<br/>
+📫 You can reach me via email: henryk.ciechanowiec@gmail.com <br>
+💼 My LinkedIn profile: [Henryk Ciechanowiec](https://www.linkedin.com/in/henryk-ciechanowiec/)<br/>
